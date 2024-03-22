@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaguya-ux&color=grey) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=InsurWeb&color=grey) <br>
 
 ## TryHackMe Stats
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/KaguyaWeb.png)
