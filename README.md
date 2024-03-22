@@ -1,16 +1,22 @@
-### Hi there 👋
+# Insur's Profile
 
-<!--
-**InsurWeb/InsurWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pokemon Pixel](https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Insur
+- **Learning:** Currently focusing on Web and Networks
+
+## GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaguya-ux&color=grey) <br>
+
+## TryHackMe Stats
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/KaguyaWeb.png)
+
+## Hacking Groups
+
+- LulzSec
+- Anonymous Europe
+- LAPSUS$
+- Gloriamist
