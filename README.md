@@ -1,6 +1,6 @@
 # Insur's Profile
 
-![Pokemon Pixel](https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif)
+![Pokemon Pixel](https://cdn.discordapp.com/banners/273980101530484736/374abafaf85bfa1d304883efe2490ae3.webp?size=1024&format=webp&width=0&height=256)
 
 ## About Me
 
