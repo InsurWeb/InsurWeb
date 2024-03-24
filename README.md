@@ -4,8 +4,8 @@
 
 ## About Me
 
-- **Name:** Insur
-- **Learning:** Currently focusing on Web and Networks
+- __**Name:**__ Insur
+- __**Learning:**__ Currently focusing on Web and Networks
 
 ## GitHub Stats
 
